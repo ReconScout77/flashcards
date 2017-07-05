@@ -49,3 +49,55 @@ p:hover {
 #methods-definition {
   display: none;
 }
+
+#arguments-definition {
+  display: none;
+}
+
+#parameters-definition {
+  display: none;
+}
+
+#return-definition {
+  display: none;
+}
+
+#chainingmethods-definition {
+  display: none;
+}
+
+#strings-definition {
+  display: none;
+}
+
+#booleans-definition {
+  display: none;
+}
+
+#undefined-definition {
+  display: none;
+}
+
+#nan-definition {
+  display: none;
+}
+
+#escape-definition {
+  display: none;
+}
+
+#alert-definition {
+  display: none;
+}
+
+#comments-definition {
+  display: none;
+}
+
+#jquery-definition {
+  display: none;
+}
+
+#attribute-definition {
+  display: none;
+}

@@ -89,9 +89,9 @@ $(document).ready(function() {
     $("#jquery-definition").toggle();
   });
 
-  $(".click-attributes").click(function() {
-    $("#attributes-term").toggle();
-    $("#attributes-definition").toggle();
+  $(".click-attribute").click(function() {
+    $("#attribute-term").toggle();
+    $("#attribute-definition").toggle();
   });
 
 });
