@@ -1,3 +1,8 @@
+body {
+  color: white;
+  background-color: black;
+}
+
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -11,6 +16,36 @@ h3:hover {
   text-decoration: underline;
 }
 
+p {
+  cursor: pointer;
+  background-color: #c61b1b;
+  font-size: 16px;
+}
+
+p:hover {
+  text-decoration: underline;
+}
+
 #javascript-definition {
+  display: none;
+}
+
+#operators-definition {
+  display: none;
+}
+
+#variables-definition {
+  display: none;
+}
+
+#variablenamingconventions-definition {
+  display: none;
+}
+
+#functions-definition {
+  display: none;
+}
+
+#methods-definition {
   display: none;
 }

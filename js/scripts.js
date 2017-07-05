@@ -15,8 +15,8 @@ $(document).ready(function() {
   });
 
   $(".click-variablename").click(function() {
-    $("#variablename-term").toggle();
-    $("#variablename-definition").toggle();
+    $("#variablenamingconventions-term").toggle();
+    $("#variablenamingconventions-definition").toggle();
   });
 
   $(".click-functions").click(function() {
