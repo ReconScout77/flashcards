@@ -1,0 +1,16 @@
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+}
+
+h3 {
+  cursor: pointer;
+}
+
+h3:hover {
+  text-decoration: underline;
+}
+
+#javascript-definition {
+  display: none;
+}
